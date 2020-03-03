@@ -1,5 +1,7 @@
 .container{
-    margin-bottom: 70px;
+    margin-bottom: 70px; 
+    
+   
 }
 .galib{
     background-color: #fceae8;
@@ -18,4 +20,56 @@
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.categories{
+    margin-top: 60px;
+    
+    
+}
+
+.categories h1{
+    color: #fff;
+}
+
+.categories img{
+    width: 100px;
+    
+}
+
+.cat1,.cat2,.cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.cat1{
+    background-image: repeating-linear-gradient(to right,orange 0%,yellow 100%);
+}
+.cat2{
+    background-image: repeating-linear-gradient(to right,rgb(252, 5, 211) 0%,rgb(245, 60, 236) 100%);
+}
+.cat3{
+    background-image: repeating-linear-gradient(to right,rgb(17, 0, 255) 0%,rgb(79, 76, 226) 100%);
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+
+#backpack{
+    margin-top:70px ;
+}
+.card-footer{
+    background-color: white;
+    border: none;
+}
+.vai{
+    height: 300px;
+
+}
+h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    
 }
